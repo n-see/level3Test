@@ -1,0 +1,15 @@
+.toDoContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 5px;
+  border: solid black 1px;
+  border-radius: 10px;
+  padding: 10px;
+  font-size: large;
+}
+.singleBtn {
+  margin: 5px;
+}
